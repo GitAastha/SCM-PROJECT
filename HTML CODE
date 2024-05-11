@@ -20,8 +20,7 @@
         </div> 
         <div class="content">
             <h1>Image Gallery & <br><span>Filter</span></h1>
-            <p class="par">An image gallery filter is a user-friendly tool that categorizes and displays 
-                images based on <br> tags or labels. It enables quick sorting and presentation of specific image types, 
+            <p class="par">An image gallery filter is an intuitive tool that organizes and showcases images based on various criteria such as:<br> tags or labels. It enables quick sorting and presentation of specific image types, 
                  making it easier<br> for users to locate and view desired images within a gallery, enhancing the browsing experience.
 
 
