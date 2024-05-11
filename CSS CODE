@@ -8,19 +8,19 @@
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://i.insider.com/5ed7b71f4dca68772d08ea76?width=800&format=jpeg&auto=webp);
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 101vh;
 }
 
 .navbar{
-    width: 1200px;
+    width: 1201px;
     height: 75px;
     margin: auto;
 }
 
 .icon{
-    width: 200px;
+    width: 201px;
     float: left;
-    height: 70px;
+    height: 71px;
 }
 
 .logo{
