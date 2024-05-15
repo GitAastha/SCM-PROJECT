@@ -95,8 +95,8 @@ ul li a:hover{
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
-    border-bottom-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 7px;
+    border-bottom-right-radius: 7px;
     transition: 0.2s ease;
     cursor: pointer;
 }
