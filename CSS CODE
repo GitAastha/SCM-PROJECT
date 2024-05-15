@@ -81,7 +81,7 @@ ul li a:hover{
     color: #fff;
     border-right: none;
     font-size: 16px;
-    float: left;
+    float: right;
     padding: 10px;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
