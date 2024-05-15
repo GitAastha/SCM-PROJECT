@@ -11,6 +11,7 @@
     height: 101vh;
 }
 
+
 .navbar{
     width: 1201px;
     height: 75px;
