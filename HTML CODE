@@ -30,6 +30,8 @@
 
                 <button class="cn"><a href="Filterfix.html">TRY IT</a></button>
 
+<!--form-->
+
                 <div class="form">
                     <h2>Login Here</h2>
                     <input type="email" name="email" placeholder="Enter Email Here">
