@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0.5,0.5,0.5)50%,rgba(0,0,0.5,0.5)50%), url(https://i.insider.com/5ed7b71f4dca68772d08ea76?width=800&format=jpeg&auto=webp);
+    background: linear-gradient(to top, rgba(0,0.51,0.5,0.5)50%,rgba(0,0,0.5,0.5)50%), url(https://i.insider.com/5ed7b71f4dca68772d08ea76?width=800&format=jpeg&auto=webp);
     background-position: center;
     background-size: cover;
     height: 101vh;
