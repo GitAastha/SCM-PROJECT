@@ -37,7 +37,7 @@
                     <input type="email" name="email" placeholder="Enter Your email Here">
                     <input type="password" name="" placeholder="Enter password Here">
                     <button class="btnn"><a href="#">Login</a></button>
-
+<!--These are showing header click-in -->
                     <p class="link">Don't have an account<br>
                     <a href="#">Sign up </a> here</a></p>
                     <p class="liw">Login with</p>
