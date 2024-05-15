@@ -5,20 +5,20 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0.5,0.5,0.5,0.5)50%,rgba(0,0,0.5,0.5)50%), url(https://i.insider.com/5ed7b71f4dca68772d08ea76?width=800&format=jpeg&auto=webp);
+    background: linear-gradient(to top, rgba(0,0,0.5,0.5)50%,rgba(0,0,0.5,0.5)50%), url(https://i.insider.com/5ed7b71f4dca68772d08ea76?width=800&format=jpeg&auto=webp);
     background-position: center;
     background-size: cover;
     height: 101vh;
 }
 
 .navbar{
-    width: 1205px;
+    width: 1201px;
     height: 75px;
     margin: auto;
 }
 
 .icon{
-    width: 204px;
+    width: 209px;
     float: left;
     height: 71px;
 }
@@ -48,7 +48,7 @@ ul{
 
 ul li{
     list-style: none;
-    margin-left: 63px;
+    margin-left: 62px;
     margin-top: 28px;
     font-size: 15px;
 }
