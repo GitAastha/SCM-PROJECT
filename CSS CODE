@@ -13,7 +13,7 @@
 
 .navbar{
     width: 1201px;
-    height: 75px;
+    height: 76px;
     margin: auto;
 }
 
